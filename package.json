@@ -1,0 +1,33 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "description": "Gateway module for the Lighthouse IoT system.",
+  "main": "gateway.js",
+  "dependencies": {
+    "cisco-vpn": "^1.0.1",
+    "node-openvpn": "^0.1.0",
+    "node-rest-client": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laitinenp/lighthousegateway.git"
+  },
+  "keywords": [
+    "IoT",
+    "Lighthouse",
+    "Opiskelija-asunnot",
+    "Oy",
+    "Joensuun",
+    "Elli"
+  ],
+  "author": "laitinenp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laitinenp/lighthousegateway/issues"
+  },
+  "homepage": "https://github.com/laitinenp/lighthousegateway#readme"
+}
